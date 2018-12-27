@@ -1,6 +1,6 @@
 GIST-AI-IOT-HACKATHON
 
-## 3D Pirnter Model by 원응호
+## 3D Printer Model by 원응호
 
 ![9](https://user-images.githubusercontent.com/43809168/50467256-57fefc00-09e5-11e9-86a9-8e8172a6edc3.jpeg)
 
