@@ -1,0 +1,17 @@
+[
+	{
+		"table_id": 1,
+		"order_list": "떡볶이",
+		"order_amount": "5인분"
+	},
+	{
+		"table_id": 8,
+		"order_list": "순대",
+		"order_amount": "3인분"
+	},
+	{
+		"table_id": 9,
+		"order_list": "오뎅",
+		"order_amount": "5개"
+	}
+]
